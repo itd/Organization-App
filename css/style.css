@@ -19,3 +19,9 @@ p{
 form{
 	text-align: center;
 }
+
+/*BACKGROUND IMAGE*/
+body {
+	background: url(../images/TurtleIsland.jpg);
+	background-size: 100%;
+}
