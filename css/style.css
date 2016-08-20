@@ -20,9 +20,16 @@ form{
 	text-align: center;
 }
 
+<<<<<<< HEAD
 #master-login {
 	margin: 0 auto;
 	width: 50%;
 	max-width: 30em;
 	background: #f3f3f3;
+=======
+/*BACKGROUND IMAGE*/
+body {
+	background: url(../images/TurtleIsland.jpg);
+	background-size: 100%;
+>>>>>>> 53a80d0865e35e821a93068e6c3068766063bb93
 }
