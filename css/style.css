@@ -4,18 +4,59 @@ body {
 }
 
 
-/*HEADING*/
+/************************
+	HEADING
+************************/
 
 h1 {
 	color:orange;
 	text-align: center;
 }
 
-p{
+h2 {
+	font-family: 'Nunito', sans-serif;
+	font-weight: normal;
+}
+
+p {
+	font-family: 'Merriweather', serif;
 	text-align: center;
 }
 
 
-form{
+form {
 	text-align: center;
 }
+
+
+/*************************
+	User Interface Page
+*************************/
+.menuBar {
+	
+	}
+
+.liveChat {
+	display: block;
+	float: right;
+	width: 33.3%;
+	border: 
+	}
+
+
+
+<<<<<<< HEAD
+#master-login {
+	margin: 0 auto;
+	width: 50%;
+	max-width: 30em;
+	background: #f3f3f3;
+=======
+/*BACKGROUND IMAGE*/
+body {
+	background: url(../images/TurtleIsland.jpg);
+	background-size: 100%;
+>>>>>>> 53a80d0865e35e821a93068e6c3068766063bb93
+	}
+
+
