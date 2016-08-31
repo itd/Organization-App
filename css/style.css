@@ -19,71 +19,6 @@ h2 {
 	font-weight: normal;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> beast
-h2 {
-	font-family: 'Nunito', sans-serif;
-	font-weight: normal;
-}
-
-p {
-	font-family: 'Merriweather', serif;
-	text-align: center;
-}
-
-
-form {
-	text-align: center;
-	background-color:#f5f4f6f;
-
-}
-
-<<<<<<< HEAD
-.row {
-	padding: 150px
-}
-
-=======
-
-.row{
-	padding: 150px
-}
-
-
->>>>>>> beast
-/*************************
-	User Interface Page
-*************************/
-.menuBar {
-	
-	}
-
-.liveChat {
-	display: block;
-	float: right;
-	width: 33.3%/*GENERAL*/
-body {
-	font-family: 'Kaushan Script', cursive;
-}
-
-
-/************************
-	HEADING
-************************/
-
-h1 {
-	color:orange;
-	text-align: center;
-
-}
-
-h2 {
-	font-family: 'Nunito', sans-serif;
-	font-weight: normal;
-}
-
 p {
 	font-family: 'Merriweather', serif;
 	text-align: center;
@@ -127,26 +62,5 @@ body {
 >>>>>>> 53a80d0865e35e821a93068e6c3068766063bb93
 	}
 
-
-
-;
-	border: 
-	}
-
-
-
-<<<<<<< HEAD
-#master-login {
-	margin: 0 auto;
-	width: 50%;
-	max-width: 30em;
-	background: #f3f3f3;
-=======
-/*BACKGROUND IMAGE*/
-body {
-	background: url(../images/TurtleIsland.jpg);
-	background-size: 100%;
->>>>>>> 53a80d0865e35e821a93068e6c3068766063bb93
-	}
 
 
