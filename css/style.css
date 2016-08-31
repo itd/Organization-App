@@ -4,7 +4,9 @@ body {
 }
 
 
-/*HEADING*/
+/************************
+	HEADING
+************************/
 
 h1 {
 	color:orange;
@@ -12,12 +14,18 @@ h1 {
 
 }
 
-p{
+h2 {
+	font-family: 'Nunito', sans-serif;
+	font-weight: normal;
+}
+
+p {
+	font-family: 'Merriweather', serif;
 	text-align: center;
 }
 
 
-form{
+form {
 	text-align: center;
 	background-color:#f5f4f6f;
 
@@ -26,6 +34,23 @@ form{
 .row{
 	padding: 150px
 }
+
+
+/*************************
+	User Interface Page
+*************************/
+.menuBar {
+	
+	}
+
+.liveChat {
+	display: block;
+	float: right;
+	width: 33.3%;
+	border: 
+	}
+
+
 
 <<<<<<< HEAD
 #master-login {
@@ -39,4 +64,6 @@ body {
 	background: url(../images/TurtleIsland.jpg);
 	background-size: 100%;
 >>>>>>> 53a80d0865e35e821a93068e6c3068766063bb93
-}
+	}
+
+
