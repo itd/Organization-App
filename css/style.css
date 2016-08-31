@@ -9,6 +9,7 @@ body {
 h1 {
 	color:orange;
 	text-align: center;
+
 }
 
 p{
@@ -18,6 +19,12 @@ p{
 
 form{
 	text-align: center;
+	background-color:#f5f4f6f;
+
+}
+
+.row{
+	padding: 150px
 }
 
 <<<<<<< HEAD
