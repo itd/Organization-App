@@ -19,6 +19,14 @@ h2 {
 	font-weight: normal;
 }
 
+<<<<<<< HEAD
+=======
+h2 {
+	font-family: 'Nunito', sans-serif;
+	font-weight: normal;
+}
+
+>>>>>>> 1f08721c20980ab776d9cc4b8815387e35ca67f1
 p {
 	font-family: 'Merriweather', serif;
 	text-align: center;
@@ -31,10 +39,13 @@ form {
 
 }
 
+<<<<<<< HEAD
 .row{
 	padding: 150px
 }
 
+=======
+>>>>>>> 1f08721c20980ab776d9cc4b8815387e35ca67f1
 
 /*************************
 	User Interface Page
