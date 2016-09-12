@@ -1,16 +1,19 @@
-/*GENERAL*/
+/**********************
+		GENERAL
+**********************/
 body {
 	font-family: 'Kaushan Script', cursive;
 }
 
 
 /************************
-	HEADING
+		HEADING
 ************************/
 
 h1 {
 	color:orange;
 	text-align: center;
+
 }
 
 h2 {
@@ -23,17 +26,38 @@ p {
 	text-align: center;
 }
 
-
 form {
 	text-align: center;
 }
 
+/************************
+		Front Page
+************************/
 
-/*************************
+#master-login {
+	margin: 0 auto;
+	width: 50%;
+	max-width: 30em;
+	background: #f3f3f3;
+}
+
+.row{
+	padding: 10%
+}
+
+/*BACKGROUND IMAGE*/
+body {
+	background: url(../images/TurtleIsland.jpg);
+	background-size: 100%;
+	background-position: fixed;
+	}
+
+/************************
 	User Interface Page
-*************************/
-.menuBar {
-	
+************************/
+.menuBar ul{
+	float: left;
+	list-style: none;
 	}
 
 .liveChat {
@@ -43,20 +67,9 @@ form {
 	border: 
 	}
 
-
-
-<<<<<<< HEAD
-#master-login {
-	margin: 0 auto;
-	width: 50%;
-	max-width: 30em;
-	background: #f3f3f3;
-=======
-/*BACKGROUND IMAGE*/
-body {
-	background: url(../images/TurtleIsland.jpg);
-	background-size: 100%;
->>>>>>> 53a80d0865e35e821a93068e6c3068766063bb93
-	}
+.aside {
+	margin-right: 33%;
+	
+}
 
 
