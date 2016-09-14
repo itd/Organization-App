@@ -16,8 +16,8 @@
 ## Matthew  feedyourideas@gmail.com
 
  - Organization app user stories, what does it do.
- - What are the fields the db suold need for those stories.
-
+ - What are the fields the db should need for those stories.
+ 
 
 ## Matt  mattwolford59@gmail.com
 
